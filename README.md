@@ -27,7 +27,7 @@ This project analyzes an e-commerce dataset to uncover insights about sales, pro
 
 ## Dashboard Preview
 
-![Dashboard KPI](images/dashboard_preview.png)
+![Dashboard KPI](dashboard_preview.png)
 
 ---
 
