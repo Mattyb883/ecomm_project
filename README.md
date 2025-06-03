@@ -106,14 +106,12 @@ Built an interactive dashboard with:
 ## Project Structure
 
 ecomm_project/
-│
 ├── data.csv # Raw dataset from Kaggle
 ├── ecomm_analysis.ipynb # Jupyter notebook for EDA & modeling
 ├── dashboard_layout_mockup.pdf # Visual layout of the Looker dashboard
-├── ecomm_final_data.csv # Cleaned dataset for Looker
-├── images/
-│ ├── dashboard_kpi.png # Screenshot of KPI section
-│ └── dashboard_products.png # Screenshot of product insights
+├── ecomm_final_data.csv # Cleaned dataset for Looker Studio
+├── dashboard_kpi.png # Screenshot of KPI section
+├── dashboard_products.png # Screenshot of product insights
 ├── README.md # Project documentation (this file)
 
 ---
