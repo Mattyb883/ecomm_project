@@ -120,5 +120,3 @@ ecomm_project/
 
 **Author**: Matt Baglietto  
 Feel free to fork and build on this project for educational or portfolio use.
-
-**License**: [MIT](LICENSE)
